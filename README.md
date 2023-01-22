@@ -7,6 +7,7 @@ BDD framework based on:
 - NUnit
 - WebDriverManager
 - Page Object Model
+- Gherkin
 
 The website used in the project is demo web app of Sauce Labs:
 https://www.saucedemo.com/
