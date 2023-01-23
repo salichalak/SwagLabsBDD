@@ -1,6 +1,6 @@
 # SwagLabsBDD
 
-BDD framework based on:
+BDD tests based on:
 - C#
 - SpecFlow
 - Selenium
